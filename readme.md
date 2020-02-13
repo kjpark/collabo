@@ -36,7 +36,8 @@ Then add whatever changes you made to the stage.
 
 ```git add whateverfiles```
 
-Check to make sure you're ready to commit (save) and write a nice message!
+Check to make sure you're ready to commit (save) by running `git status` again
+and then commit if everything looks good.
 
 ```git commit -m "a nice, descriptive message"```
 
