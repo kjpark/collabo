@@ -1,0 +1,19 @@
+* {
+    margin: 50px;
+}
+
+li {
+    font-size: 55px;
+}
+
+p {
+    background-color: coral;
+}
+
+#macbook {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.deploy {
+    color: springgreen;
+}
